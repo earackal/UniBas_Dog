@@ -1,0 +1,11 @@
+package client;
+
+public class Client {
+
+  public CommandLineInterface commandLineInterface;
+  public ClientGui clientGui;
+  public MainGui mainGui;
+  public RulesClient rulesClient;
+  public NewClient newClient;
+  public HumanModem humanModem;
+}
