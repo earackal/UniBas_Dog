@@ -1,0 +1,1 @@
+During our bachelor's degree in computer science, my good friends Lars, Gustas, Kapilas, and I developed UniBas Dog, which is based on the famous board game Brändi Dog. After we left university, we lost access to the server that contained the game. For this reason, I uploaded the game to GitHub. Have fun!
